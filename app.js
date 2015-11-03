@@ -35,6 +35,7 @@ $(document).ready(function(){
     
 });
 function clean(){
+    //test
     $(".cards").empty();
 }
 
@@ -46,10 +47,4 @@ function start(){
         $(".cards").append(x);
     }
 }
-
-
-
-
-
-
 
